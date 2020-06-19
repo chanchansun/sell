@@ -1,5 +1,4 @@
-  
-<template>
+  <template>
 <div class="wrapper">
   <swiper :options="swiperOptions">
     <swiper-slide >
