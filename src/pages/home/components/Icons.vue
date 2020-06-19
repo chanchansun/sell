@@ -15,7 +15,7 @@
 
 <script>
 export default{
-  name: "HomeIcons",
+  name: 'HomeIcons',
   data () {
     return {
       iconList: [{
@@ -33,7 +33,7 @@ export default{
       }, {
         id: '0004',
         imgUrl: 'http://img1.qunarzz.com/piao/fusion/1611/35/2640cab202c41b02.png',
-        desc: '动植园' 
+        desc: '动植园'
       }, {
         id: '0006',
         imgUrl: 'http://img1.qunarzz.com/piao/fusion/1711/df/86cbcfc533330d02.png',
@@ -45,11 +45,11 @@ export default{
       }, {
         id: '0008',
         imgUrl: 'http://img1.qunarzz.com/piao/fusion/1611/35/2640cab202c41b02.png',
-        desc: '动植园' 
+        desc: '动植园'
       }, {
         id: '0009',
         imgUrl: 'http://img1.qunarzz.com/piao/fusion/1611/a9/ffc620dbda9b9c02.png',
-        desc: '动植园' 
+        desc: '动植园'
       }]
     }
   },
@@ -68,7 +68,6 @@ export default{
   }
 }
 </script>
-
 <style lang="stylus" scope>
 .icons >>> .swiper-container
   height:0
